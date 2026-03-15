@@ -15,6 +15,11 @@
   padding: 0;
 }
 
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 2px 0 0;
+}
+
 .u-section-1 .u-layout-cell-2 {
   min-height: 25px;
 }
@@ -23,29 +28,25 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-1 {
-  font-weight: 700;
-  margin: 2px 0 0;
-}
-
 .u-section-1 .u-list-1 {
-  width: 1242px;
-  margin: 54px 67px 22px auto;
+  width: 927px;
+  margin: 54px auto 60px 67px;
 }
 
 .u-section-1 .u-repeater-1 {
   --gap: 20px;
-  grid-template-columns: repeat(4, calc(25% - 15px));
-  min-height: 664px;
-  grid-auto-columns: calc(25% - 15px);
+  grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+  min-height: 353px;
+  grid-auto-columns: calc(33.3333% - 13.3333px);
 }
 
 .u-section-1 .u-list-item-1 {
   --radius: 26px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.1);
 }
 
 .u-section-1 .u-container-layout-3 {
-  padding: 10px 10px 0;
+  padding: 10px 10px 25px;
 }
 
 .u-section-1 .u-image-1 {
@@ -57,7 +58,7 @@
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
-  margin: 15px 1px 0;
+  margin: 15px 2px 0 0;
 }
 
 .u-section-1 .u-text-3 {
@@ -72,16 +73,17 @@
   font-size: 0.9375rem;
   border-style: solid;
   transition-duration: 0.5s;
-  margin: 36px 0 0;
-  padding: 8px 122px;
+  margin: 36px auto 0;
+  padding: 8px 111px;
 }
 
 .u-section-1 .u-list-item-2 {
   --radius: 26px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.1);
 }
 
 .u-section-1 .u-container-layout-4 {
-  padding: 10px 10px 0;
+  padding: 10px 10px 25px;
 }
 
 .u-section-1 .u-image-2 {
@@ -93,7 +95,7 @@
 
 .u-section-1 .u-text-4 {
   font-weight: 700;
-  margin: 15px 1px 0;
+  margin: 15px 2px 0 0;
 }
 
 .u-section-1 .u-text-5 {
@@ -108,16 +110,17 @@
   font-size: 0.9375rem;
   border-style: solid;
   transition-duration: 0.5s;
-  margin: 36px 0 0;
-  padding: 8px 122px;
+  margin: 36px auto 0;
+  padding: 8px 111px;
 }
 
 .u-section-1 .u-list-item-3 {
   --radius: 26px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.1);
 }
 
 .u-section-1 .u-container-layout-5 {
-  padding: 10px 10px 0;
+  padding: 10px 10px 25px;
 }
 
 .u-section-1 .u-image-3 {
@@ -130,7 +133,7 @@
 
 .u-section-1 .u-text-6 {
   font-weight: 700;
-  margin: 15px 1px 0;
+  margin: 15px 2px 0 0;
 }
 
 .u-section-1 .u-text-7 {
@@ -145,81 +148,8 @@
   font-size: 0.9375rem;
   border-style: solid;
   transition-duration: 0.5s;
-  margin: 36px 0 0;
-  padding: 8px 122px;
-}
-
-.u-section-1 .u-list-item-4 {
-  --radius: 26px;
-}
-
-.u-section-1 .u-container-layout-6 {
-  padding: 10px 10px 0;
-}
-
-.u-section-1 .u-image-4 {
-  height: 141px;
-  --radius: 20px;
-  margin-top: 0;
-  margin-bottom: 0;
-  object-position: 100% 50%;
-}
-
-.u-section-1 .u-text-8 {
-  font-weight: 700;
-  margin: 15px 1px 0;
-}
-
-.u-section-1 .u-text-9 {
-  font-weight: 700;
-  font-size: 0.9375rem;
-  margin: 10px 0 0;
-}
-
-.u-section-1 .u-btn-4 {
-  --radius: 6px;
-  font-weight: 700;
-  font-size: 0.9375rem;
-  border-style: solid;
-  transition-duration: 0.5s;
-  margin: 36px 0 0;
-  padding: 8px 122px;
-}
-
-.u-section-1 .u-list-item-5 {
-  --radius: 26px;
-}
-
-.u-section-1 .u-container-layout-7 {
-  padding: 10px 10px 0;
-}
-
-.u-section-1 .u-image-5 {
-  height: 141px;
-  --radius: 20px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-text-10 {
-  font-weight: 700;
-  margin: 15px 1px 0;
-}
-
-.u-section-1 .u-text-11 {
-  font-weight: 700;
-  font-size: 0.9375rem;
-  margin: 10px 0 0;
-}
-
-.u-section-1 .u-btn-5 {
-  --radius: 6px;
-  font-weight: 700;
-  font-size: 0.9375rem;
-  border-style: solid;
-  transition-duration: 0.5s;
-  margin: 36px 0 0;
-  padding: 8px 122px;
+  margin: 36px auto 0;
+  padding: 8px 111px;
 }
 
 @media (max-width: 1199px) {
@@ -247,16 +177,12 @@
   }
 
   .u-section-1 .u-repeater-1 {
-    min-height: 503px;
+    grid-auto-columns: calc(33.333333333333336% - 13.333333333333334px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 13.333333333333334px));
   }
 
   .u-section-1 .u-image-1 {
     height: 102px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-1 .u-btn-1 {
@@ -268,11 +194,6 @@
     height: 102px;
   }
 
-  .u-section-1 .u-text-4 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-1 .u-btn-2 {
     padding-left: 84px;
     padding-right: 84px;
@@ -282,40 +203,7 @@
     height: 102px;
   }
 
-  .u-section-1 .u-text-6 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-1 .u-btn-3 {
-    padding-left: 84px;
-    padding-right: 84px;
-  }
-
-  .u-section-1 .u-image-4 {
-    height: 102px;
-  }
-
-  .u-section-1 .u-text-8 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-btn-4 {
-    padding-left: 84px;
-    padding-right: 84px;
-  }
-
-  .u-section-1 .u-image-5 {
-    height: 102px;
-  }
-
-  .u-section-1 .u-text-10 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-btn-5 {
     padding-left: 84px;
     padding-right: 84px;
   }
@@ -341,27 +229,31 @@
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: calc(50% - 10px);
     grid-template-columns: repeat(2, calc(50% - 10px));
-    min-height: 1156px;
+    min-height: 823px;
   }
 
   .u-section-1 .u-image-1 {
     height: 162px;
   }
 
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
   .u-section-1 .u-image-2 {
     height: 162px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-3 {
     height: 162px;
   }
 
-  .u-section-1 .u-image-4 {
-    height: 162px;
-  }
-
-  .u-section-1 .u-image-5 {
-    height: 162px;
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
   }
 }
 
@@ -390,19 +282,11 @@
   .u-section-1 .u-image-3 {
     height: 248px;
   }
-
-  .u-section-1 .u-image-4 {
-    height: 248px;
-  }
-
-  .u-section-1 .u-image-5 {
-    height: 248px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1794px;
+    min-height: 1198px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -411,7 +295,7 @@
 
   .u-section-1 .u-list-1 {
     margin-top: -50px;
-    margin-bottom: 40px;
+    margin-bottom: -556px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -419,7 +303,6 @@
 
   .u-section-1 .u-repeater-1 {
     grid-auto-columns: calc(100% + 0px);
-    min-height: 1664px;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -432,8 +315,6 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
     padding-right: 144px;
     padding-left: 144px;
   }
@@ -448,8 +329,6 @@
 
   .u-section-1 .u-btn-2 {
     margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
     padding-right: 144px;
     padding-left: 144px;
   }
@@ -464,40 +343,6 @@
 
   .u-section-1 .u-btn-3 {
     margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 144px;
-    padding-left: 144px;
-  }
-
-  .u-section-1 .u-container-layout-6 {
-    padding-bottom: 19px;
-  }
-
-  .u-section-1 .u-image-4 {
-    height: 153px;
-  }
-
-  .u-section-1 .u-btn-4 {
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 144px;
-    padding-left: 144px;
-  }
-
-  .u-section-1 .u-container-layout-7 {
-    padding-bottom: 19px;
-  }
-
-  .u-section-1 .u-image-5 {
-    height: 153px;
-  }
-
-  .u-section-1 .u-btn-5 {
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
     padding-right: 144px;
     padding-left: 144px;
   }
@@ -521,50 +366,44 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-block-4943-53,
-.u-block-4943-53:before,
-.u-block-4943-53 > .u-container-layout:before {
+.u-block-5178-53,
+.u-block-5178-53:before,
+.u-block-5178-53 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-block-4943-59,
-.u-block-4943-59:before,
-.u-block-4943-59 > .u-container-layout:before {
+.u-block-5178-59,
+.u-block-5178-59:before,
+.u-block-5178-59 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-1 .u-btn-4,
-.u-section-1 .u-btn-4:before,
-.u-section-1 .u-btn-4 > .u-container-layout:before {
+.u-block-5178-99,
+.u-block-5178-99:before,
+.u-block-5178-99 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-1 .u-btn-5,
-.u-section-1 .u-btn-5:before,
-.u-section-1 .u-btn-5 > .u-container-layout:before {
+.u-block-5178-117,
+.u-block-5178-117:before,
+.u-block-5178-117 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-block-4943-117,
-.u-block-4943-117:before,
-.u-block-4943-117 > .u-container-layout:before {
+.u-block-5178-123,
+.u-block-5178-123:before,
+.u-block-5178-123 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-block-4943-123,
-.u-block-4943-123:before,
-.u-block-4943-123 > .u-container-layout:before {
+.u-block-5178-129,
+.u-block-5178-129:before,
+.u-block-5178-129 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-block-4943-129,
-.u-block-4943-129:before,
-.u-block-4943-129 > .u-container-layout:before {
-  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
-}
-
-.u-block-4943-135,
-.u-block-4943-135:before,
-.u-block-4943-135 > .u-container-layout:before {
+.u-block-5178-135,
+.u-block-5178-135:before,
+.u-block-5178-135 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
